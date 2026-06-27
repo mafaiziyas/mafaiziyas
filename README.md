@@ -1,5 +1,3 @@
-# Hi there, I'm Mafaiz! 👋
-
 ### 💻 About Me
 Aspiring Data Scientist & Machine Learning Enthusiast 
 
@@ -9,8 +7,3 @@ Aspiring Data Scientist & Machine Learning Enthusiast
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Mafaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaiziyas&show_icons=true&theme=radial)
