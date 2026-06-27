@@ -1,5 +1,5 @@
-### 💻 About Me
-Aspiring Data Scientist & Machine Learning Enthusiast 
+
+### 💻 Aspiring Data Scientist & Machine Learning Enthusiast 
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
