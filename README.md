@@ -3,7 +3,7 @@
 # Hi there, I'm Mafaiz! 👋
 
 ### 💻 About Me
-Machine Learning Enthusiast | Building interactive web applications with Python & Streamlit.
+Aspiring Data Scientist & Machine Learning Enthusiast 
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
