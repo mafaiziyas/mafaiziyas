@@ -13,6 +13,11 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaiziyas&theme=dark)
+<div align="center">
+  <img src="./github-stats.svg" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafaiziyas&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mafaiziyas&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-![GitHub Stats](./github-stats.svg)
