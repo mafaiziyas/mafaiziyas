@@ -17,7 +17,7 @@
   <img src="./github-stats.svg" alt="GitHub Stats" />
   <br/><br/>
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mafaiziyas&layout=compact&theme=dark&cache_seconds=1800&v=999" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mafaiziyas&layout=compact&theme=dark&cache_seconds=1800&v=1000" alt="Top Languages" />
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafaiziyas&theme=dark" alt="GitHub Streak" />
