@@ -16,3 +16,5 @@
 ![GitHub Stats](https://github-readme-stats.onrender.com/api?username=mafaiziyas&show_icons=true&count_private=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafaiziyas&theme=dark)
+
+![GitHub Stats](./github-stats.svg)
